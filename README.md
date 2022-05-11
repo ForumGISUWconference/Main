@@ -1,5 +1,5 @@
 # Forum GIS UW
-Forum GIS UW is a comunnity of GIS practitioners and scholars created in 2013 at the University of Warsaw, Poland. The Forum GIS UW is primarily intended for the free exchange of experiences and presentation of views, and also participate in the development and dydactics of GIS methods at the University of Warsaw. 
+Forum GIS UW is a community of GIS practitioners and scholars created in 2013 at the University of Warsaw, Poland. The Forum GIS UW is primarily intended for the free exchange of experiences and presentation of views, and participation in the development and didactics of GIS methods at the University of Warsaw.
 
 ## Forum GIS UW history
 
